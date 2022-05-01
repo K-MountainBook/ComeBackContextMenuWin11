@@ -1,0 +1,4 @@
+# ComeBackContextMenuWin11
+
+Windwos11のコンテキストメニューを旧式に戻すためのレジストリファイル
+自己責任でお願いしいます。
